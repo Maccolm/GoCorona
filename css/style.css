@@ -151,7 +151,7 @@ body {
 }
 .header__logo:before {
   content: "";
-  background: url("../../img/icons/1.png") 0 0 no-repeat;
+  background: url("../img/icons/1.png") 0 0 no-repeat;
   width: 40px;
   height: 41px;
   top: 0;
